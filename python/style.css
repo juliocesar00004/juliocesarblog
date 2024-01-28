@@ -1,0 +1,41 @@
+@charset "UTU-8";
+
+body{
+    background-color:cadetblue;
+  }
+div {
+    background-color:azure;color: black;
+}
+
+span{
+    background-color:azure;
+    border-radius: 5px;
+}
+
+h1{
+    display: flex; justify-content:center; color: #D9C23B;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    display: flex; justify-content:center;
+}
+
+ul{
+    display: flex; justify-content:right
+}
+
+button{
+    display: flex; justify-content:center 
+}
+
+h4{
+    display: flex; justify-content:right
+}
+h5{
+    display: flex; justify-content:left;
+}
+h3{
+    display: flex; justify-content:center;
+    text-align:justify;
+    font-family:'Courier New', Courier, monospace;
+}
